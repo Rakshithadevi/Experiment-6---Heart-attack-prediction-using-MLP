@@ -72,7 +72,8 @@ plt.show()
 
 ### Loss Convergence Graph:
 
-![Uploading image.png…]()
+![image](https://github.com/Rakshithadevi/Experiment-6---Heart-attack-prediction-using-MLP/assets/94165326/11875740-4b45-449c-a460-e55b25c837df)
+
 
 
 ## Result:
